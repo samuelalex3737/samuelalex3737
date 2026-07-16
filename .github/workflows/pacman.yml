@@ -1,0 +1,26 @@
+name: Pac-Man Contribution Graph
+
+on:
+  schedule:
+    # Runs every day at midnight
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-pacman:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        
+      - name: Generate Pac-Man Graph
+        uses: abozanona/pacman-contribution-graph@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # The action will look for the tags <!-- pacman-contribution-graph --> 
+          # in the README.md and update the graph inside them.
