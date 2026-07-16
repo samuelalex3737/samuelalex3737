@@ -14,12 +14,12 @@ The projects below represent my focus on building end-to-end applied AI and data
 
 | **TalentLens** | **DataMind AI** |
 |:---:|:---:|
-| <img src="./assets/talentlens-demo.png" alt="TalentLens" width="400"/> | <img src="./assets/datamind-demo.png" alt="DataMind AI" width="400"/> |
+| <a href="https://talent-lens-olive.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/talentlens-demo.png" alt="TalentLens" width="400"/></a> | <a href="https://data-mind-ai-seven.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/datamind-demo.png" alt="DataMind AI" width="400"/></a> |
 | **AI Resume Screening Engine**<br>Built an AI-driven screening tool utilizing TF-IDF and dual LLM scoring to objectively evaluate candidates. Achieved 86% LLM agreement across 2,484 validated resumes. | **Automated Data Analyst App**<br>A web app deployed on Vercel for automated EDA. Supports CSV uploads, dynamic visualization (20+ chart types), and automated forecasting. |
 
 | **Power Plus LLC** | **WHOOP & UAE Pulse** |
 |:---:|:---:|
-| <img src="./assets/powerplus-demo.png" alt="Power Plus LLC" width="400"/> | 📊 |
+| <a href="https://powerplusllc.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/powerplus-demo.png" alt="Power Plus LLC" width="400"/></a> | <img src="./assets/whoop-demo.png" alt="WHOOP Dashboard" width="400"/> |
 | **Production Corporate Website**<br>Built and deployed a performant, production-ready company site for Power Plus LLC. Hosted and optimized on Cloudflare Pages. | **Data & Analytics Dashboards**<br>Engineered comprehensive data dashboards including a custom WHOOP fitness tracker and the UAE Pulse data project. |
 
 ---
