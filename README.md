@@ -55,12 +55,7 @@ The projects below represent my focus on building end-to-end applied AI and data
 
 ### 📈 Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelalex3737&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelalex3737&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
-<br>
 
 <div align="center">
   <picture>
