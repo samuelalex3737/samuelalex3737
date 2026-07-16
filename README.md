@@ -22,6 +22,11 @@ The projects below represent my focus on building end-to-end applied AI and data
 | <a href="https://powerplusllc.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/powerplus-demo.png" alt="Power Plus LLC" width="400"/></a> | <img src="./assets/whoop-demo.png" alt="WHOOP Dashboard" width="400"/> |
 | **Production Corporate Website**<br>Built and deployed a performant, production-ready company site for Power Plus LLC. Hosted and optimized on Cloudflare Pages. | **Data & Analytics Dashboards**<br>Engineered comprehensive data dashboards including a custom WHOOP fitness tracker and the UAE Pulse data project. |
 
+| **Career Conversation AI** | **More Projects** |
+|:---:|:---:|
+| <a href="https://huggingface.co/spaces/samuelalex37/career_coversation" target="_blank" rel="noopener noreferrer"><img src="./assets/chatbot-demo.jpeg" alt="Career Conversation AI" width="400"/></a> | 🚀 |
+| **Interactive AI Chatbot**<br>Built and deployed an AI chatbot focused on career conversations, hosted live on Hugging Face Spaces. | *Check out my pinned repositories below for more experimental builds, scripts, and open-source contributions!* |
+
 ---
 
 ### 🏗️ Currently Building
@@ -48,6 +53,7 @@ The projects below represent my focus on building end-to-end applied AI and data
 
 **Deployment / Tools**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
