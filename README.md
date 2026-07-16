@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Master+of+AI+in+Business+Student;AI%2FML+Builder;Data+Tinkerer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Master+of+AI+in+Business+Student;AI%2FML+Builder;Data+Tinkerer" alt="Typing SVG" />
 </div>
 
 ### Hi there, I'm Samuel Alex 👋
@@ -63,8 +63,11 @@ The projects below represent my focus on building end-to-end applied AI and data
 <br>
 
 <div align="center">
-  <!-- pacman-contribution-graph -->
-  <!-- /pacman-contribution-graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelalex3737/samuelalex3737/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuelalex3737/samuelalex3737/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samuelalex3737/samuelalex3737/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 ---
