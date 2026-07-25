@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Samuel Alex 👋
 
-I'm an AI/ML student at SP Jain School of Global Management (Dubai), specializing in Deep Learning, NLP, Machine Learning, and Reasoning under Uncertainty. I care about shipping real, applied AI projects that solve concrete problems. When I'm not training models or wrangling data, you'll probably find me playing Basketball, Valorant, or Brawl Stars.
+I'm an AI/ML student at SP Jain School of Global Management (Dubai), specializing in Deep Learning, NLP, Machine Learning, and Reasoning under Uncertainty. I care about shipping real, applied AI projects that solve concrete problems. 
 
 ---
 
